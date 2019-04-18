@@ -25,6 +25,7 @@
 
 ### 3 Most important changes:
 * Lay-out: Most info could be put on the homepage
+* Content: make fewer categories, "Who are we", "What do we do", "How can you reach us" should suffice
 * No social media link
 
 ### How did you find it?
