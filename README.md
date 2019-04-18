@@ -1,5 +1,3 @@
-# markdown-warm-up
-
 # Stal Francx
 [http://www.stalfrancx.net/index.html]
 :horse:
