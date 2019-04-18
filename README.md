@@ -1,11 +1,11 @@
 # markdown-warm-up
 
-#Stal Francx
+# Stal Francx
 [http://www.stalfrancx.net/index.html]
 :horse:
 
-##Analyzing Website: 
-###Lay-out
+## Analyzing Website: 
+### Lay-out
 * Homepage (index) is unclear what it is about
 * Color font resembles the background color too much
 * Ugly buttons
@@ -13,23 +13,23 @@
 * Navigation could be in a bar on top 
 * Not viewable on mobile devices (website is in fixed container, does not adapt to screen size)
 
-###Code
+### Code
 * Made with [www.websitex5.com] (Never updated the template since 06.10.2017)
 * Static/semantic website, while [www.websitex5.com] uses dynamic a cms system
 * The links 'uitklappen' and 'inklappen' don't work
 
 
-###Content
+### Content
 * Negative info on 'Wie zijn wij?' page (copywriting not ok)
 * E-mail address is not hidden from spambots
 * Address not linked to Google Maps
 * Active on social media but no link to the page
 
-###3 Most important changes:
+### 3 Most important changes:
 * Lay-out: Most info could be put on the homepage
 * No social media link
 
-###How did you find it?
+### How did you find it?
 Our collegue Ilger pointed it out
  
 
