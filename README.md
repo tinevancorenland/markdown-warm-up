@@ -15,23 +15,24 @@
 
 ## Assignment
 
- [x] Everyone creates a repo with the  name `markdown-warm-up`.
- [x] Search in group for a website on google that needs improvements (badly!) ;) 
- [x] Analyse the website with the group
- [x] Create a readme.md file and write in it what you think is wrong about that site 
- [x] Answer (at least) the following questions in the markdown readme about the website
+- [x] Everyone creates a repo with the  name `markdown-warm-up`.
+- [x] Search in group for a website on google that needs improvements (badly!) ;) 
+- [x] Analyse the website with the group
+- [x] Create a readme.md file and write in it what you think is wrong about that site 
+- [x] Answer (at least) the following questions in the markdown readme about the website
     - What website did you find (url, name,...)
     - Does it get regular updates ?
     - How did you find it ?
     - Why does this website need an update / complete makeover ?
     - Is this website active on social media ?
     - Make a list with the top three things you would change first (and explain why those three specifically)
-  [x] Help each other to make the markdown file as nice-looking as you can
-  [x] Per group present the markdown you wrote and the website to the entire startup.
+ - [x] Help each other to make the markdown file as nice-looking as you can
+ - [x] Per group present the markdown you wrote and the website to the entire startup.
 
 ------------------------
 
-# [Stal Francx] (http://www.stalfrancx.net/index.html)
+# Stal Francx
+[Stal Francx](http://www.stalfrancx.net/index.html)
 :horse:
 
 ## Analyzing Website: 
@@ -44,8 +45,8 @@
 * Not viewable on mobile devices (website is in fixed container, does not adapt to screen size)
 
 ### Code
-* Made with [www.websitex5.com] (Never updated the template since 06.10.2017)
-* Static/semantic website, while [www.websitex5.com] uses dynamic a cms system
+* Made with [websitex5](www.websitex5.com) (Never updated the template since 06.10.2017)
+* Static/semantic website, while [websitex5](www.websitex5.com) uses dynamic a cms system
 * The links 'uitklappen' and 'inklappen' don't work
 
 ### Content
